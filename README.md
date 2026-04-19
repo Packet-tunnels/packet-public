@@ -4,7 +4,7 @@ Packet is a modern, high-performance network tunnel designed for privacy and sec
 
 ## Support
 If you encounter any issues or have questions regarding Packet, please contact our support team:
-- **Email:** support@resolo.com (Placeholder - update as needed)
+- **Email:** support@packetapp.net
 - **GitHub Issues:** Use the issues tab in this repository.
 
 ## Frequently Asked Questions

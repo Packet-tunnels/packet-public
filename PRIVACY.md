@@ -13,3 +13,6 @@ When you are connected, your configured server receives the traffic and connecti
 
 ## Your Choices
 You can disconnect the tunnel at any time through the app or iOS System Settings. Deleting a server profile in the app removes the configuration data from your device.
+
+## Contact
+If you have questions or concerns about this Privacy Policy, please reach out at **support@packetapp.net**.
